@@ -8,6 +8,7 @@ public class MijlocDeTransport {
         System.out.println("Elicopter");
         System.out.println("Bicicleta");
         System.out.println("Trotineta");
+        System.out.println("skoda");
     }
 
 }
