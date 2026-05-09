@@ -5,6 +5,7 @@ public class MijlocDeTransport {
         System.out.println("Troleibuz");
         System.out.println("Tren");
         System.out.println("Caruta");
+        System.out.println("Elicopter");
     }
 
 }
