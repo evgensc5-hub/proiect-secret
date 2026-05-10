@@ -10,6 +10,7 @@ public class MijlocDeTransport {
         System.out.println("Trotineta");
         System.out.println("skoda");
         System.out.println("Lexus");
+        System.out.println("Honda");
     }
 
 }
